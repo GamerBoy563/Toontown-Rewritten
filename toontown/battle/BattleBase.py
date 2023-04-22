@@ -7,7 +7,7 @@ from toontown.toon import NPCToons
 from toontown.toonbase import TTLocalizer
 TOON_ID_COL = 0
 TOON_TRACK_COL = 1
-TOON_LVL_COL = 2
+TOON_LVL_COL = 22
 TOON_TGT_COL = 3
 TOON_HP_COL = 4
 TOON_ACCBONUS_COL = 5
